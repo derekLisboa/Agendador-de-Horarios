@@ -13,7 +13,7 @@ import lombok.RequiredArgsConstructor;
 
 @Service
 @RequiredArgsConstructor
-public class AgendamentoServices {
+public class AgendamentoService {
 
     private final AgendamentoRepository agendamentoRepository;
 

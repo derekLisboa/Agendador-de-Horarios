@@ -27,6 +27,7 @@ public class Agendamento {
     private Long id;
 
     private String servico;
+    private String cliente;
     private String profissional;
     private LocalDateTime dataHoraAgendamento;
     private String telefoneCliente;
